@@ -1,0 +1,5 @@
+1.bower_components:第三方插件库文件夹（通过bower安装第三方插件）
+2.doc:文档说明文件夹
+3.src:源文件
+4.test:测试文件
+5.README.md:说明文件
